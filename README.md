@@ -6,3 +6,9 @@
 ```
 python setup.py install
 ```
+
+## Usage
+```py
+import prime
+prime.is_prime(2147483647)
+```
