@@ -4,6 +4,6 @@
 #define PY_SSIZE_T_CLEAN
 #include "Python.h"
 
-int	is_prime(int n);
+static int is_prime(unsigned int n);
 
 #endif
