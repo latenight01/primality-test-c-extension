@@ -6,12 +6,8 @@
 ```
 python setup.py install
 ```
-<<<<<<< HEAD
-
 ## Usage
 ```py
 import prime
 prime.is_prime(2147483647)
 ```
-=======
->>>>>>> 15463e6c4d093efcf102451c10b457ce24a5f7de
