@@ -11,3 +11,4 @@ python setup.py install
 import prime
 prime.is_prime(2147483647)
 ```
+You can also run `c_test.py` and `py_test.py` Python programs in the `tests` directory to see the performance difference between pure Python code and this C extension
